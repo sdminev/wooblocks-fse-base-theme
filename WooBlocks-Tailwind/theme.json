@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "settings": {
+    "color": {
+      "palette": [
+        { "name": "Primary", "slug": "primary", "color": "#3498db" },
+        { "name": "Secondary", "slug": "secondary", "color": "#2ecc71" },
+        { "name": "Accent", "slug": "accent", "color": "#e74c3c" }
+      ],
+      "custom": true
+    },
+    "typography": {
+      "fontSizes": [
+        { "name": "Small", "slug": "small", "size": "12px" },
+        { "name": "Normal", "slug": "normal", "size": "16px" },
+        { "name": "Large", "slug": "large", "size": "24px" }
+      ],
+      "fontFamilies": [
+        {
+          "name": "Default",
+          "slug": "default",
+          "fontFamily": "Arial, sans-serif"
+        },
+        {
+          "name": "Serif",
+          "slug": "serif",
+          "fontFamily": "Georgia, serif"
+        }
+      ]
+    }
+  }
+}
