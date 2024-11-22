@@ -150,5 +150,3 @@ WooBlocks-[Flavor]/
 This project is licensed under the MIT License. Feel free to modify and use it in your projects.
 
 ---
-
-Let me know if you need further customization for the README or any additional details!
