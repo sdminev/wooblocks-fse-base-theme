@@ -13,7 +13,7 @@ This repository contains three flavors of the WooBlocks WordPress FSE theme, eac
 ### **1. Cloning the Repository**
 Clone the repository and navigate to the folder of the theme flavor you wish to use:
 ```bash
-git clone https://github.com/your-repo-name.git
+git clone https://github.com/wooblocks-fse-base-theme.git
 cd WooBlocks-Tailwind  # or WooBlocks-Skeleton / WooBlocks-Bootstrap
 ```
 
